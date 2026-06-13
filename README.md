@@ -1,4 +1,4 @@
-# Hi, I'm Galal Mohamed 👋
+# Hi, I'm Galal Mohamed
 
 DevOps & Cloud Engineer
 
